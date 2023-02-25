@@ -1,4 +1,4 @@
-# API de Consulta de Endereço e Cálculo de Frete
+# API Calculo de frete por consulta de CEP
 Esta API é utilizada para consultar o endereço correspondente a um determinado CEP e realizar o cálculo do frete para este endereço. O valor do frete é fixo de acordo com as regiões do Brasil.
 
 ## Contrato da API
