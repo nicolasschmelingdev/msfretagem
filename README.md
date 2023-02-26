@@ -3,7 +3,7 @@ Esta API é utilizada para consultar o endereço correspondente a um determinado
 
 ## Contrato da API
 ### Consulta de endereço
-POST v1/consulta-endereco
+POST v1/cep
 
 ### REQUEST
 
